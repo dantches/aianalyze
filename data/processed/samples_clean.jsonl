@@ -1,0 +1,1 @@
+{"id": "example:1", "cve_id": "CVE-EXAMPLE-0001", "repo": "example/repo", "file_path": "example.py", "lang": "python", "label": 0, "code": "def foo(x):\\n    return x+1\\n"}

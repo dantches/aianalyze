@@ -1,0 +1,12 @@
+typer
+pydantic
+GitPython
+requests
+tqdm
+orjson
+networkx
+scikit-learn
+numpy
+pandas
+torch
+transformers
